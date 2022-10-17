@@ -1,0 +1,26 @@
+body{
+	background-color: blue
+}
+
+#container{
+background-color: grey;
+border: 5px solid white;
+height:275px;
+width: 750px;
+margin: 0 auto;
+text-align: center;
+}
+
+#button{
+	margin: 50px auto;
+	height: 50px;
+	width: 250px;
+	background-color: rgb(192, 191, 191);
+
+}
+
+#output{
+	margin: 25px auto;
+	font-size: 26px;
+	color: white;
+}
